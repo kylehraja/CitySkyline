@@ -8,7 +8,7 @@ City Skyline (Day Time)
 ![image](https://github.com/kylehraja/CitySkyline/assets/140476247/526ccd6f-3cab-42b6-8d70-25f49fdd41e8)
 
 
-Media queries are set up to change the skyline into night time if the viewport width is 1200px or less.
+Media queries are set up to show the skyline during the night when the width is 1200px or less.
 ![image](https://github.com/kylehraja/CitySkyline/assets/140476247/1500b49f-c696-413d-9025-a3c8b07dacbf)
 
 
