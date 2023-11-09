@@ -11,4 +11,11 @@ City Skyline (Day Time)
 Media queries are set up to show the skyline during the night when the width is 1200px or less.
 ![image](https://github.com/kylehraja/CitySkyline/assets/140476247/1500b49f-c696-413d-9025-a3c8b07dacbf)
 
+How to run webpage:
+
+1) Download and unzip the CitySkyline.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
+
 
